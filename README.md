@@ -1,2 +1,0 @@
-# SamNoyesWebsite
-My personal website
