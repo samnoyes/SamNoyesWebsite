@@ -62,7 +62,7 @@ function App() {
           flexDirection: 'column',
           alignItems: 'center',
           justifyContent: 'center',
-          height: '100vh',
+          height: 'calc(100vh+36px)',
           backgroundColor: scrollBackground,
           color: scrollColor,
           transition: 'background-color 0.5s ease',
